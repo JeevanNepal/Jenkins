@@ -6,7 +6,8 @@ CI:
 Continuous build + continuous testing.
 
 
-Ways of working with Jenkins:
+Work Flow of Jenkins:
 ----------------------------
-
+-> We can attach git, maven, selenium & artifictory plugins to jenkins.
+-> Once developers 
 
