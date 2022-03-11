@@ -9,5 +9,8 @@ Continuous build + continuous testing.
 Work Flow of Jenkins:
 ----------------------------
 -> We can attach git, maven, selenium & artifictory plugins to jenkins.
--> Once developers 
+-> Once developers puts code in github, jenkins pulls the code & sends to maven for build.
+-> Once build is done, jenkins pulls that code and send to selenium for testing.
+-> Once testing is done, jenkins will pull that code and send to artifactory (archive, finished code) as per the requirnment and so on.
+-> At last deploy the code in QA or PROD env.
 
