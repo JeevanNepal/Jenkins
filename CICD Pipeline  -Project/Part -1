@@ -1,5 +1,7 @@
 CI/CD Pipeline:
 --------------
+In CLoud (AWS):
 
+[ec2-user@ip-172-31-35-13 ~]$ git config --global user.name "Jeevan"
+[ec2-user@ip-172-31-35-13 ~]$ git config --global user.mail "jeevanshrma.jn@gmail.com"
 
-To be done with gitbash in windows.
