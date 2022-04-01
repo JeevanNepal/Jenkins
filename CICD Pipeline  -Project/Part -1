@@ -10,10 +10,14 @@ user.name=Jeevan
 user.mail=jeevanshrma.jn@gmail.com
 
 
-Download & Install Java, mevan & Jenkins.
+Download & Install Java, maven & Jenkins.
 
 Plugin:
 They are small libraries that add new abilities to jenkins and can provide integration points to other tools.
+
+
+
+ 
 
 
 
