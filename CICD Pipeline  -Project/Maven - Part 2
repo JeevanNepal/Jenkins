@@ -1,2 +1,11 @@
 Maven job,schedule task and Source code Polling | Jenkins and Maven Basic | Devops
 
+
+
+
+C:\>git clone https://github.com/JeevanNepal/time-tracker.git
+
+C:\>cd time-tracker
+
+C:\time-tracker>mvn clean package
+It builds.
